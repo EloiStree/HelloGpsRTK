@@ -2,6 +2,9 @@ NOT WORKING ON IT.
 I DID THIS REPO TO REMIND ME LATER THAT I NEED TO WORK ON IT.  
 IF YOU WANT ME TO WORK ON IT FOR A PROJECT OF YOURS, FEEL FREE TO PING ME FOR TRIGGER ME TO DO SOME R&D.  
 
+I would love to:
+-  make it works with the Quest3 to make GPS scan application.
+- Create a robotarium https://www.youtube.com/watch?v=72jP2HM1sIo
 ----------------------
 
 # HelloGpsRTK
