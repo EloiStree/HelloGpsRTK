@@ -1,3 +1,8 @@
+NOT WORKING ON IT.
+I DID THIS REPO TO REMIND ME LATER THAT I NEED TO WORK ON IT.
+
+----------------------
+
 # HelloGpsRTK
 1 cm precision GPS !!! I need 😅. But what it cost and how to do it ?
 
